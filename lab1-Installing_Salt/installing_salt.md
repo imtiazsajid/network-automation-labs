@@ -20,10 +20,10 @@
 	......
 	[group30.labs.apnictraining.net]
 
-Once successfully logged in, the prompt will change to:
+Once successfully logged in, the prompt will change to (xx is your group):
 
 ```
-root@salt:~#
+root@groupXX:~#
 ```
 
 **Preinstalled packages**
